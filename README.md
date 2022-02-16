@@ -1,4 +1,4 @@
-#Tindog
+# Tindog
 ## What is Tindog
 Tindog is a Responsive Web Landing Page Created using HTML,CSS,BOOTSTRAP.
 The Fonts are provided by "https://fonts.googleapis.com/" and Image fonts are Provided by "https://kit.fontawesome.com/".
