@@ -9,6 +9,8 @@ git clone https://github.com/CyrilHancock/-TinDog.git
 ```
 And just open **index.html** in any browser
 ## Preview
+### Deployed Version
+Checkout the Deployed version at "https://cyrilhancock.github.io/-TinDog/"
 ### Web View
 ![This is an image](/images/webview.png)
 ### Mobile View
