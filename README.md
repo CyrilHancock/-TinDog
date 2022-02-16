@@ -7,7 +7,6 @@ Clone the repository by typing
 ```
 git clone https://github.com/CyrilHancock/-TinDog.git
 ```
-```
 And just open **index.html** in any browser
 ## Preview
 ### Web View
